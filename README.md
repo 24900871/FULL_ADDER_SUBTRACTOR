@@ -1,6 +1,7 @@
 # FULL_ADDER_SUBTRACTOR
 
 NAME:JOTHIMANI P
+
 REG NO:24900871
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
@@ -42,9 +43,12 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 FULL ADDER 
+
 ![image](https://github.com/user-attachments/assets/d3ad18b5-75dd-41dc-849d-7e8fd8be7d91)
 
-FULL SUBTRACTOR 
+
+FULL SUBTRACTOR
+
 ![image](https://github.com/user-attachments/assets/bd47d2e7-a110-4a84-a19c-ebbe09d883d2)
 
 
@@ -66,15 +70,18 @@ Full Subtractor :
 
 **Program:**
 
+
 ![image](https://github.com/user-attachments/assets/0c215bcb-a933-4142-aeda-829d316dad4c)
 
 
 **RTL Schematic**
 
+
 ![image](https://github.com/user-attachments/assets/bac5f3d1-6507-4a3a-bc8f-482f6e38be3e)
 
 
 **Output Timing Waveform**
+
 
 ![image](https://github.com/user-attachments/assets/4f32305c-fb3c-4a5e-a3a5-586802258706)
 
