@@ -1,10 +1,10 @@
-# FULL_ADDER_SUBTRACTOR
+# EX 4 : FULL_ADDER_SUBTRACTOR
 
 NAME:JOTHIMANI P
 
 REG NO:24900871
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+Implementation of Full Adder and Full subtractor circuit
 
 **AIM:**
 
