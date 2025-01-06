@@ -4,7 +4,6 @@ NAME:JOTHIMANI P
 
 REG NO:24900871
 
-Implementation of Full Adder and Full subtractor circuit
 
 **AIM:**
 
